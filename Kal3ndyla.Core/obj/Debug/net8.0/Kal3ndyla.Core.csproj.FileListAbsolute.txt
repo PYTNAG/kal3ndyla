@@ -1,0 +1,11 @@
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Core/bin/Debug/net8.0/Kal3ndyla.Core.deps.json
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Core/bin/Debug/net8.0/Kal3ndyla.Core.dll
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Core/bin/Debug/net8.0/Kal3ndyla.Core.pdb
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Core/obj/Debug/net8.0/Kal3ndyla.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Core/obj/Debug/net8.0/Kal3ndyla.Core.AssemblyInfoInputs.cache
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Core/obj/Debug/net8.0/Kal3ndyla.Core.AssemblyInfo.cs
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Core/obj/Debug/net8.0/Kal3ndyla.Core.csproj.CoreCompileInputs.cache
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Core/obj/Debug/net8.0/Kal3ndyla.Core.dll
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Core/obj/Debug/net8.0/refint/Kal3ndyla.Core.dll
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Core/obj/Debug/net8.0/Kal3ndyla.Core.pdb
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Core/obj/Debug/net8.0/ref/Kal3ndyla.Core.dll

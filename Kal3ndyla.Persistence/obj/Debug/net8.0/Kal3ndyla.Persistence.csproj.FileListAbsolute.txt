@@ -1,0 +1,12 @@
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Persistence/bin/Debug/net8.0/Kal3ndyla.Persistence.deps.json
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Persistence/bin/Debug/net8.0/Kal3ndyla.Persistence.dll
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Persistence/bin/Debug/net8.0/Kal3ndyla.Persistence.pdb
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Persistence/obj/Debug/net8.0/Kal3ndyla.Persistence.csproj.AssemblyReference.cache
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Persistence/obj/Debug/net8.0/Kal3ndyla.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Persistence/obj/Debug/net8.0/Kal3ndyla.Persistence.AssemblyInfoInputs.cache
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Persistence/obj/Debug/net8.0/Kal3ndyla.Persistence.AssemblyInfo.cs
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Persistence/obj/Debug/net8.0/Kal3ndyla.Persistence.csproj.CoreCompileInputs.cache
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Persistence/obj/Debug/net8.0/Kal3ndyla.Persistence.dll
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Persistence/obj/Debug/net8.0/refint/Kal3ndyla.Persistence.dll
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Persistence/obj/Debug/net8.0/Kal3ndyla.Persistence.pdb
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Persistence/obj/Debug/net8.0/ref/Kal3ndyla.Persistence.dll

@@ -1,0 +1,253 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.API/Kal3ndyla.API.csproj": {}
+  },
+  "projects": {
+    "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.API/Kal3ndyla.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.API/Kal3ndyla.API.csproj",
+        "projectName": "Kal3ndyla.API",
+        "projectPath": "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.API/Kal3ndyla.API.csproj",
+        "packagesPath": "/home/pytnag/.nuget/packages/",
+        "outputPath": "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pytnag/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Core/Kal3ndyla.Core.csproj": {
+                "projectPath": "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Core/Kal3ndyla.Core.csproj"
+              },
+              "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/Kal3ndyla.Infrastructure.csproj": {
+                "projectPath": "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/Kal3ndyla.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Core/Kal3ndyla.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Core/Kal3ndyla.Core.csproj",
+        "projectName": "Kal3ndyla.Core",
+        "projectPath": "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Core/Kal3ndyla.Core.csproj",
+        "packagesPath": "/home/pytnag/.nuget/packages/",
+        "outputPath": "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pytnag/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/Kal3ndyla.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/Kal3ndyla.Infrastructure.csproj",
+        "projectName": "Kal3ndyla.Infrastructure",
+        "projectPath": "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/Kal3ndyla.Infrastructure.csproj",
+        "packagesPath": "/home/pytnag/.nuget/packages/",
+        "outputPath": "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pytnag/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Core/Kal3ndyla.Core.csproj": {
+                "projectPath": "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Core/Kal3ndyla.Core.csproj"
+              },
+              "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Persistence/Kal3ndyla.Persistence.csproj": {
+                "projectPath": "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Persistence/Kal3ndyla.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Persistence/Kal3ndyla.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Persistence/Kal3ndyla.Persistence.csproj",
+        "projectName": "Kal3ndyla.Persistence",
+        "projectPath": "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Persistence/Kal3ndyla.Persistence.csproj",
+        "packagesPath": "/home/pytnag/.nuget/packages/",
+        "outputPath": "/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pytnag/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

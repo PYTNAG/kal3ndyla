@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kal3ndyla.API", "Kal3ndyla.API\Kal3ndyla.API.csproj", "{C7CE86FE-2028-429C-93EB-A60B3FB40656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kal3ndyla.Infrastructure", "Kal3ndyla.Infrastructure\Kal3ndyla.Infrastructure.csproj", "{A66B7F18-07D8-4EE4-9CFA-53F6EACFBC0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kal3ndyla.Core", "Kal3ndyla.Core\Kal3ndyla.Core.csproj", "{B8501C24-CA68-46E8-AB0E-F2F8BE23FE27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kal3ndyla.Persistence", "Kal3ndyla.Persistence\Kal3ndyla.Persistence.csproj", "{2F32CC6C-C5A5-490B-8E39-7C16C1A221C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7CE86FE-2028-429C-93EB-A60B3FB40656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7CE86FE-2028-429C-93EB-A60B3FB40656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7CE86FE-2028-429C-93EB-A60B3FB40656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7CE86FE-2028-429C-93EB-A60B3FB40656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A66B7F18-07D8-4EE4-9CFA-53F6EACFBC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66B7F18-07D8-4EE4-9CFA-53F6EACFBC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66B7F18-07D8-4EE4-9CFA-53F6EACFBC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66B7F18-07D8-4EE4-9CFA-53F6EACFBC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8501C24-CA68-46E8-AB0E-F2F8BE23FE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8501C24-CA68-46E8-AB0E-F2F8BE23FE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8501C24-CA68-46E8-AB0E-F2F8BE23FE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8501C24-CA68-46E8-AB0E-F2F8BE23FE27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F32CC6C-C5A5-490B-8E39-7C16C1A221C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F32CC6C-C5A5-490B-8E39-7C16C1A221C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F32CC6C-C5A5-490B-8E39-7C16C1A221C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F32CC6C-C5A5-490B-8E39-7C16C1A221C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

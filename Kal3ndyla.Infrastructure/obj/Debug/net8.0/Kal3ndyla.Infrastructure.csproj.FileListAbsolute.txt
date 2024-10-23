@@ -1,0 +1,17 @@
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/bin/Debug/net8.0/Kal3ndyla.Infrastructure.deps.json
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/bin/Debug/net8.0/Kal3ndyla.Infrastructure.dll
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/bin/Debug/net8.0/Kal3ndyla.Infrastructure.pdb
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/bin/Debug/net8.0/Kal3ndyla.Core.dll
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/bin/Debug/net8.0/Kal3ndyla.Persistence.dll
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/bin/Debug/net8.0/Kal3ndyla.Core.pdb
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/bin/Debug/net8.0/Kal3ndyla.Persistence.pdb
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/obj/Debug/net8.0/Kal3ndyla.Infrastructure.csproj.AssemblyReference.cache
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/obj/Debug/net8.0/Kal3ndyla.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/obj/Debug/net8.0/Kal3ndyla.Infrastructure.AssemblyInfoInputs.cache
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/obj/Debug/net8.0/Kal3ndyla.Infrastructure.AssemblyInfo.cs
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/obj/Debug/net8.0/Kal3ndyla.Infrastructure.csproj.CoreCompileInputs.cache
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/obj/Debug/net8.0/Kal3ndyla.Infrastructure.csproj.CopyComplete
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/obj/Debug/net8.0/Kal3ndyla.Infrastructure.dll
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/obj/Debug/net8.0/refint/Kal3ndyla.Infrastructure.dll
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/obj/Debug/net8.0/Kal3ndyla.Infrastructure.pdb
+/home/pytnag/Desktop/kal3ndyla/back/src/Kal3ndyla.Infrastructure/obj/Debug/net8.0/ref/Kal3ndyla.Infrastructure.dll
